@@ -1,6 +1,14 @@
 # SQL
 
+Create a new database
+
+Run the script found in SQL code -> SQL database script
+
 # Mongodb
+
+Create a new database
+
+Create five collections and import the collections found in Data -> Collections folder
 
 # Neo4j
 
