@@ -1,0 +1,51 @@
+LOAD CSV WITH HEADERS FROM 'file:///amazon_reviews_cleaned.csv' AS reviewRow
+FIELDTERMINATOR ';'
+WITH reviewRow
+MERGE (r:Reviews {
+  review_id: COALESCE(reviewRow.ReviewID, 'NULL'),
+  review_title: COALESCE(reviewRow.ReviewTitle, 'NULL'),
+  review_content: COALESCE(reviewRow.ReviewContent, 'NULL'),
+  user_id: COALESCE(reviewRow.UserID, 'NULL'),
+  product_id: COALESCE(reviewRow.ProductID, 'NULL')
+})
+
+LOAD CSV WITH HEADERS FROM 'file:///amazon_users.csv' AS userRow
+FIELDTERMINATOR ';'
+WITH userRow
+MERGE (u:Users {
+  user_id: COALESCE(userRow.UserID, 'NULL'),
+  user_name: COALESCE(userRow.UserName, 'NULL')
+})
+
+LOAD CSV WITH HEADERS FROM 'file:///amazon_ratings_cleaned.csv' AS ratingRow
+FIELDTERMINATOR ';'
+WITH ratingRow
+MERGE (ra:Ratings {
+  rating_id: toInteger(COALESCE(trim(ratingRow.RatingID), '0')),
+  rating: toFloat(COALESCE(trim(ratingRow.Rating), '0.0')),
+  rating_count: toInteger(COALESCE(trim(ratingRow.RatingCount), '0')),
+  product_id: COALESCE(ratingRow.ProductID, 'NULL')
+})
+
+LOAD CSV WITH HEADERS FROM 'file:///amazon_products_cleaned.csv' AS productRow
+FIELDTERMINATOR ';'
+WITH productRow
+MERGE (p:Products {
+  product_id: COALESCE(productRow.ProductID, 'NULL'),
+  product_name: COALESCE(productRow.ProductName, 'NULL'),
+  price: toInteger(COALESCE(trim(productRow.Price), '0')),
+  discounted_price: toInteger(COALESCE(trim(productRow.UserID), '0')),
+  discount_percentage: toInteger(COALESCE(trim(productRow.DiscountPercentage), '0')),
+  product_link: COALESCE(productRow.ProductLink, 'NULL'),
+  image_link: COALESCE(productRow.ImageLink, 'NULL'),
+  description: COALESCE(productRow.Description, 'NULL'),
+  category_id: toInteger(COALESCE(trim(productRow.CategoryID), '0'))
+})
+
+LOAD CSV WITH HEADERS FROM 'file:///amazon_categories.csv' AS categoryRow
+FIELDTERMINATOR ';'
+WITH categoryRow
+MERGE (c:Categories {
+  category_id: toInteger(COALESCE(trim(categoryRow.CategoryID), '0')),
+  category_name: COALESCE(categoryRow.Category, 'NULL')
+})

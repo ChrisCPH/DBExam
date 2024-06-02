@@ -1,0 +1,1 @@
+SELECT ProductName, Price, DiscountedPrice, DiscountPercentage FROM Products WHERE ProductName LIKE '%mouse%'
