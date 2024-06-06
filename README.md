@@ -45,13 +45,21 @@ Right click the server in ssms and click properties -> security and change from 
 Create a database user with db_owner permissions:
 
 USE [master]
+
 GO
+
 CREATE LOGIN [YourLoginName] WITH PASSWORD = 'YourPassword';
+
 GO
 
 USE [YourDatabaseName]
+
 GO
+
 CREATE USER [YourLoginName] FOR LOGIN [YourLoginName];
+
 GO
+
 EXEC sp_addrolemember 'db_owner', 'YourLoginName';
+
 GO
