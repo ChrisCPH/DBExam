@@ -23,12 +23,19 @@ npm install
 Create a .env file with the following info:
 
 SQL_SERVER=
+
 SQL_DATABASE=
+
 SQL_USER=
+
 SQL_PASSWORD=
+
 MONGO_URI=
+
 NEO4J_URI=
+
 NEO4J_USER=
+
 NEO4J_PASSWORD=
 
 Enable TCP/IP in SQL: https://www.youtube.com/watch?v=Yi9bTbGHznM
