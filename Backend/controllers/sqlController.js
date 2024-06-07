@@ -1,83 +1,188 @@
 const sql = require('mssql');
+const connectSQLServer = require('../db/sql');
 
 exports.getTest = async function (req, res) {
+    let transaction;
+
     try {
-        const request = new sql.Request();
+        await connectSQLServer();
+
+        transaction = new sql.Transaction();
+        await transaction.begin();
+
+        const request = new sql.Request(transaction);
         const result = await request.query('SELECT ProductName FROM Products');
+
+        await transaction.commit();
+
         res.json(result.recordset);
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close();
     }
 };
 
 exports.getReviews = async function (req, res) {
     const username = req.params.username;
+    let transaction;
+
     try {
-        const request = new sql.Request();
+        await connectSQLServer();
+
+        transaction = new sql.Transaction();
+        await transaction.begin();
+
+        const request = new sql.Request(transaction);
         const result = await request
-            .input('username', username)
+            .input('username', sql.VarChar, username)
             .query(`SELECT r.ReviewTitle, r.ReviewContent, u.UserName 
-                FROM Reviews r 
-                JOIN Users u 
-                ON r.UserID = u.UserID 
-                WHERE u.UserName = @username`);
+                    FROM Reviews r 
+                    JOIN Users u 
+                    ON r.UserID = u.UserID 
+                    WHERE u.UserName = @username`);
+
+        await transaction.commit();
+
         res.json(result.recordset);
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close();
     }
 };
 
 exports.getAverageDiscount = async function (req, res) {
+    let transaction;
+
     try {
-        const request = new sql.Request();
+        await connectSQLServer();
+
+        transaction = new sql.Transaction();
+        await transaction.begin();
+
+        const request = new sql.Request(transaction);
         const result = await request
             .query(`SELECT AVG(Price) as PriceAvg, AVG(DiscountedPrice) as DiscountPriceAvg, AVG(DiscountPercentage) as DiscountPercentAvg 
-                FROM Products;`)
+                    FROM Products;`);
+
+        await transaction.commit();
+
         res.json(result.recordset);
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close();
     }
 };
 
 //Large join
 exports.getEverything = async function (req, res) {
     const username = req.params.username;
+    let transaction;
+
     try {
-        const request = new sql.Request();
+        await connectSQLServer();
+
+        transaction = new sql.Transaction();
+        await transaction.begin();
+
+        const request = new sql.Request(transaction);
         const result = await request
-            .input('username', username)
+            .input('username', sql.VarChar, username)
             .query(`SELECT u.UserName, re.ReviewTitle, p.ProductName, ra.Rating, c.Category
-                FROM Users u
-                JOIN Reviews re 
-                ON u.UserID = re.UserID
-                JOIN Products p 
-                ON re.ProductID = p.ProductID
-                JOIN Ratings ra
-                ON p.ProductID = ra.ProductID
-                JOIN Categories c
-                ON p.CategoryID = c.CategoryID
-                WHERE u.UserName = @username`);
+                    FROM Users u
+                    JOIN Reviews re 
+                    ON u.UserID = re.UserID
+                    JOIN Products p 
+                    ON re.ProductID = p.ProductID
+                    JOIN Ratings ra
+                    ON p.ProductID = ra.ProductID
+                    JOIN Categories c
+                    ON p.CategoryID = c.CategoryID
+                    WHERE u.UserName = @username`);
+
+        await transaction.commit();
+
         res.json(result.recordset);
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close(); // Close the SQL connection
     }
 };
 
 //Get without join but a lot of data
 exports.getAllProducts = async function (req, res) {
+    let transaction;
+
     try {
-        const request = new sql.Request();
-        const result = await request
-            .query(`SELECT ProductID, ProductName, Price, DiscountedPrice, DiscountPercentage, ProductLink, ImageLink, Description, CategoryID
-                FROM Products`)
+        await connectSQLServer();
+
+        transaction = new sql.Transaction();
+        await transaction.begin();
+
+        const request = new sql.Request(transaction);
+        const result = await request.query(`SELECT ProductID, ProductName, Price, DiscountedPrice, DiscountPercentage, ProductLink, ImageLink, Description, CategoryID
+                                            FROM Products`);
+
+        await transaction.commit();
+
         res.json(result.recordset);
-    } catch(err) {
+    } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close(); // Close the SQL connection
     }
 };
 
