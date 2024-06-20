@@ -1,4 +1,5 @@
 const sql = require('mssql');
+const connectSQLServer = require('../db/sql');
 
 exports.getTopRatedCategories = async function (req, res) {
     try {
@@ -14,6 +15,15 @@ exports.getTopRatedCategories = async function (req, res) {
         res.json(result.recordset);
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
     }
 };
@@ -33,6 +43,8 @@ exports.getTopRatedProducts = async function (req, res) {
     } catch (err) {
         console.error('Error querying database:', err);
         res.status(500).json({ error: 'Internal server error' });
+    } finally {
+        sql.close();
     }
 };
 
@@ -64,6 +76,15 @@ exports.getReviewsForHighestRatedProduct = async function (req, res) {
         });
     } catch (err) {
         console.error('Error querying database:', err);
+
+        if (transaction && !transaction._aborted) {
+            try {
+                await transaction.rollback();
+            } catch (rollbackErr) {
+                console.error('Error rolling back transaction:', rollbackErr);
+            }
+        }
+
         res.status(500).json({ error: 'Internal server error' });
     }
 };
