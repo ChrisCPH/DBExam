@@ -1,0 +1,5418 @@
+[{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4805"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4806"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4807"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4808"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4809"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480a"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480c"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d480f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4810"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4811"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4812"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4813"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4814"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4815"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4816"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4817"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4818"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4819"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": ".",
+  "ImprovementAreas": "."
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481d"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d481f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4820"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4821"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4822"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4823"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4824"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4825"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4826"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4827"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4828"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4829"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482e"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Customer service ",
+  "ImprovementAreas": "Nothing"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d482f"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4830"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4831"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4832"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4833"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4834"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4835"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4836"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4837"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4838"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4839"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d483f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4840"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4841"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4842"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4843"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4844"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4845"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4846"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4847"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4848"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4849"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "better app interface and lower shipping charges"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Customer service",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d484f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4850"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4851"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4852"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4853"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4854"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4855"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4856"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4857"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4858"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4859"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485a"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485b"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485c"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d485f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4860"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4861"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4862"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4863"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4864"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4865"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4866"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4867"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4868"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4869"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486d"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486e"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d486f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4870"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4871"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4872"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4873"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4874"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4875"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4876"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4877"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4878"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4879"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d487f"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4880"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4881"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4882"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4883"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4884"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4885"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4886"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4887"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4888"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4889"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488c"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488e"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d488f"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4890"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4891"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4892"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4893"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4894"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4895"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4896"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4897"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4898"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4899"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489a"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489d"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489e"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d489f"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a1"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Nil"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a2"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a3"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a4"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a5"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a7"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a8"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48a9"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48aa"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ab"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ac"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ad"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ae"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48af"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b0"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b1"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b3"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b4"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b5"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Add more familiar brands to the list"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b7"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b8"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48b9"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ba"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48bb"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48bc"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48bd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48be"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48bf"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "UI"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c7"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48c9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ca"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48cb"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48cc"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48cd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ce"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48cf"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d0"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d1"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d2"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d3"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Scrolling option would be much better than going to next page"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d7"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d8"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48d9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48da"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48db"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48dc"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48dd"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48de"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48df"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Quality of product is very poor according to the big offers"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e1"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "I have no problem with Amazon yet. But others tell me about the refund issues "
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e3"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e5"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e7"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48e9"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ea"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48eb"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ec"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ed"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ee"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ef"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f4"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f7"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48f9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48fa"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48fb"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48fc"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48fd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48fe"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d48ff"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4900"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4901"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4902"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4903"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4904"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4905"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4906"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4907"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4908"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4909"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490b"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490c"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490e"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d490f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4910"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4911"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4912"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4913"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4914"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4915"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4916"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4917"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4918"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4919"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491d"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "User interface "
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d491f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4920"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4921"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Irrelevant product suggestions"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4922"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4923"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4924"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4925"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4926"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4927"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4928"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4929"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d492f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4930"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4931"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4932"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4933"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4934"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4935"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4936"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4937"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4938"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4939"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493a"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493b"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493c"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d493f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4940"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4941"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4942"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4943"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4944"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "User interface of app"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4945"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4946"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Quick delivery",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4947"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4948"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4949"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494d"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494e"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d494f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4950"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4951"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4952"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4953"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4954"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4955"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4956"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4957"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4958"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4959"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495a"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495b"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d495f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4960"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4961"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4962"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4963"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4964"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4965"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4966"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4967"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4968"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4969"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496d"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d496f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4970"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4971"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4972"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4973"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4974"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4975"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4976"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4977"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4978"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "I don't have any problem with Amazon"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4979"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d497f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "No problems with Amazon"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4980"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4981"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4982"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4983"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4984"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4985"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4986"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4987"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4988"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4989"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498b"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d498f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4990"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4991"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4992"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4993"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4994"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4995"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4996"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4997"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4998"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4999"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d499f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a0"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a1"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a2"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a4"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a5"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a6"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a7"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49a9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49aa"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ab"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ac"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ad"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ae"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49af"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b2"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b6"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b7"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49b9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ba"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49bb"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49bc"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49bd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49be"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49bf"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c5"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c7"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c8"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49c9"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ca"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49cb"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49cc"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49cd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ce"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49cf"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d7"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49d9"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49da"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49db"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49dc"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49dd"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49de"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49df"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e0"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e3"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e4"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e6"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e7"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49e9"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ea"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49eb"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ec"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ed"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ee"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ef"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f0"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f1"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f2"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f3"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f4"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f5"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f6"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f7"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f8"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49f9"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49fa"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49fb"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49fc"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49fd"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "All the above",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49fe"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d49ff"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a00"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a01"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a02"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a03"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a04"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a05"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a06"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a07"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a08"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a09"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a0f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a10"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a11"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a12"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a13"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a14"
+  },
+  "RatingAccuracy ": 5,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a15"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a16"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a17"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a18"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a19"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a1f"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a20"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a21"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a22"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a23"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a24"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a25"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a26"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a27"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a28"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a29"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2a"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2b"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2c"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2e"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a2f"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a30"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a31"
+  },
+  "RatingAccuracy ": 1,
+  "ShoppingSatisfaction": 1,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a32"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a33"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a34"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a35"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a36"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a37"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a38"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a39"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3a"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3d"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Shipping speed and reliability"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a3f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a40"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a41"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a42"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a43"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a44"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a45"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a46"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a47"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a48"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a49"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4c"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4d"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4e"
+  },
+  "RatingAccuracy ": 4,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a4f"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a50"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a51"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "User-friendly website/app interface",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a52"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a53"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a54"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a55"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 5,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a56"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a57"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a58"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a59"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a5a"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 4,
+  "ServiceAppreciation": "Competitive prices",
+  "ImprovementAreas": "Customer service responsiveness"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a5b"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Reducing packaging waste"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a5c"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a5d"
+  },
+  "RatingAccuracy ": 2,
+  "ShoppingSatisfaction": 2,
+  "ServiceAppreciation": "Wide product selection",
+  "ImprovementAreas": "Product quality and accuracy"
+},
+{
+  "_id": {
+    "$oid": "66703c7e33d35364ba8d4a5e"
+  },
+  "RatingAccuracy ": 3,
+  "ShoppingSatisfaction": 3,
+  "ServiceAppreciation": "Product recommendations",
+  "ImprovementAreas": "Product quality and accuracy"
+}]

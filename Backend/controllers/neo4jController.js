@@ -2,10 +2,21 @@ const neo4j = require('neo4j-driver');
 const driver = neo4j.driver(process.env.NEO4J_URI, neo4j.auth.basic(process.env.NEO4J_USER, process.env.NEO4J_PASSWORD));
 const session = driver.session();
 
-exports.getTest = async function (req, res) {
+exports.getAllOrdersFromCity = async function (req, res) {
     try {
-        const result = await session.run('MATCH (n) RETURN n LIMIT 10');
-        const records = result.records.map(record => record.get(0));
+        const city = req.params.city;
+        const result = await session.run(
+            `MATCH (o:Order)-[:SHIPPED_TO]->(l:Location {city: $city})
+            RETURN o.amount AS Amount, o.currency AS Currency, o.date AS Date, o.quantity AS Quantity`,
+            { city: city }
+        );
+        const records = result.records.map(record => ({
+            amount: record.get('Amount'),
+            currency: record.get('Currency'),
+            date: record.get('Date'),
+            quantity: record.get('Quantity').toNumber()
+        }));
+        
         res.json(records);
     } catch (err) {
         console.error('Error querying Neo4j:', err);
@@ -13,68 +24,19 @@ exports.getTest = async function (req, res) {
     }
 };
 
-//Get review based on username
-exports.getReviews = async function (req, res) {
-    const username = req.params.username;
+exports.getTopSellingCategories = async function (req, res) {
     try {
         const result = await session.run(
-            `MATCH (r:Reviews)-[:CREATED_BY]->(u:Users {user_name: $username}) 
-            RETURN r.review_title as ReviewTitle, r.review_content as ReviewContent, u.user_name as UserName`,
-            { username: username }
+            `MATCH (o:Order)-[:PRODUCT_ORDERED]->(p:Product)-[:CATEGORY]->(c:Category)
+            WITH c, SUM(o.quantity) AS Total_Quantity
+            RETURN c.category AS Category, Total_Quantity
+            ORDER BY Total_Quantity DESC`
         );
-        const records = result.records.map(record => {
-            return {
-                ReviewTitle: record.get('ReviewTitle'),
-                ReviewContent: record.get('ReviewContent'),
-                UserName: record.get('UserName')
-            };
-        });
-        res.json(records);
-    } catch (err) {
-        console.error('Error querying Neo4j:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-//Get avg price, discount
-exports.getAverageDiscount = async function (req, res) {
-    try {
-        const result = await session.run(`
-            MATCH (p:Products)
-            WITH AVG(p.price) AS PriceAvg, AVG(p.discounted_price) AS DiscountPriceAvg, AVG(p.discount_percentage) AS DiscountPercentAvg
-            RETURN PriceAvg, DiscountPriceAvg, DiscountPercentAvg
-        `);
-        const record = result.records[0];
-        const priceAvg = record.get('PriceAvg');
-        const discountPriceAvg = record.get('DiscountPriceAvg');
-        const discountPercentAvg = record.get('DiscountPercentAvg');
-        res.json({ PriceAvg: priceAvg, DiscountPriceAvg: discountPriceAvg, DiscountPercentAvg: discountPercentAvg });
-    } catch (err) {
-        console.error('Error querying Neo4j:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-
-//Large join
-exports.getEverything = async function (req, res) {
-    const username = req.params.username;
-    try {
-        const result = await session.run(`
-            MATCH (u:Users {user_name: "paul"})-[:WROTE]->(re:Reviews)-[:CREATED_BY]->(u)
-            MATCH (re)-[:PRODUCT]->(p:Products)-[:HAS_RATING]->(ra:Ratings)
-            MATCH (p)-[:CATEGORY]->(c:Categories)
-            RETURN u.user_name AS UserName, re.review_title AS ReviewTitle, p.product_name AS ProductName, ra.rating AS Rating, c.category_name AS Category
-        `, { username: username });
-        
         const records = result.records.map(record => ({
-            UserName: record.get('UserName'),
-            ReviewTitle: record.get('ReviewTitle'),
-            ProductName: record.get('ProductName'),
-            Rating: record.get('Rating'),
-            Category: record.get('Category')
+            category: record.get('Category'),
+            quantity: record.get('Total_Quantity').toNumber()
         }));
-        
+
         res.json(records);
     } catch (err) {
         console.error('Error querying Neo4j:', err);
@@ -82,29 +44,23 @@ exports.getEverything = async function (req, res) {
     }
 };
 
-//Get without join but a lot of data
-exports.getAllProducts = async function (req, res) {
+exports.getTopSellingProducts = async function (req, res) {
     try {
-        const result = await session.run(`
-            MATCH (p:Products)
-            RETURN p.product_id AS ProductID, p.product_name AS ProductName, p.price AS Price,
-                   p.discounted_price AS DiscountedPrice, p.discount_percentage AS DiscountPercentage,
-                   p.product_link AS ProductLink, p.image_link AS ImageLink, p.description AS Description,
-                   p.category_id AS CategoryID
-        `);
-        
+        const result = await session.run(
+            `MATCH (o:Order)-[:PRODUCT_ORDERED]->(p:Product)
+            WITH p, SUM(o.quantity) AS Total_Quantity
+            RETURN p.product_id AS product_id, p.SKU AS SKU, p.ASIN AS ASIN, Total_Quantity
+            ORDER BY Total_Quantity DESC
+            LIMIT 5`
+        );
+
         const records = result.records.map(record => ({
-            ProductID: record.get('ProductID'),
-            ProductName: record.get('ProductName'),
-            Price: record.get('Price'),
-            DiscountedPrice: record.get('DiscountedPrice'),
-            DiscountPercentage: record.get('DiscountPercentage'),
-            ProductLink: record.get('ProductLink'),
-            ImageLink: record.get('ImageLink'),
-            Description: record.get('Description'),
-            CategoryID: record.get('CategoryID')
+            product_id: record.get('product_id').toNumber(),
+            SKU: record.get('SKU'),
+            ASIN: record.get('ASIN'),
+            total_quantity: record.get('Total_Quantity').toNumber()
         }));
-        
+
         res.json(records);
     } catch (err) {
         console.error('Error querying Neo4j:', err);
@@ -112,131 +68,194 @@ exports.getAllProducts = async function (req, res) {
     }
 };
 
-//Insert
-exports.addNewProduct = async function (req, res) {
+exports.getLocationsWithHighestOrderVolumes = async function (req, res) {
     try {
-        const { id, name, price, discount_price, discount_percent, product_link, image_link, description, category_id } = req.body;
-        
-        const result = await session.run(`
-            CREATE (p:Products {
-                product_id: $id,
-                product_name: $name,
-                price: $price,
-                discounted_price: $discount_price,
-                discount_percentage: $discount_percent,
-                product_link: $product_link,
-                image_link: $image_link,
-                description: $description,
-                category_id: $category_id
+        const result = await session.run(
+            `MATCH (o:Order)-[:SHIPPED_TO]->(l:Location)
+            WITH l, COUNT(o) AS order_count
+            RETURN l.location_id AS location_id, l.city AS city, l.state AS state, l.country AS country, order_count
+            ORDER BY order_count DESC`
+        );
+
+        const records = result.records.map(record => ({
+            location_id: record.get('location_id').toNumber(),
+            city: record.get('city'),
+            state: record.get('state'),
+            country: record.get('country'),
+            order_count: record.get('order_count').toNumber()
+        }));
+
+        res.json(records);
+    } catch (err) {
+        console.error('Error querying Neo4j:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+
+exports.getOrderStatusOverview = async function (req, res) {
+    try {
+        const result = await session.run(
+            `MATCH (o:Order)-[:STATUS]->(st:Status)
+            WITH st.status AS status, COUNT(o) AS order_count
+            RETURN status, order_count
+            ORDER BY order_count DESC`
+        );
+
+        const records = result.records.map(record => ({
+            status: record.get('status'),
+            order_count: record.get('order_count').toNumber()
+        }));
+
+        res.json(records);
+    } catch (err) {
+        console.error('Error querying Neo4j:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+
+exports.getMostPopularPromotionCodes = async function (req, res) {
+    try {
+        const result = await session.run(
+            `MATCH (o:Order)-[:PROMOTION]->(prom:Promotion)
+            WITH prom.promotion_codes AS promotion_code, COUNT(o) AS usage_count
+            RETURN promotion_code, usage_count
+            ORDER BY usage_count DESC`
+        );
+
+        const records = result.records.map(record => ({
+            promotion_code: record.get('promotion_code'),
+            usage_count: record.get('usage_count').toNumber()
+        }));
+
+        res.json(records);
+    } catch (err) {
+        console.error('Error querying Neo4j:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+
+exports.getMostPopularOrdersOnDate = async function (req, res) {
+    const date = req.params.date;
+    try {
+        const result = await session.run(
+            `MATCH (o:Order)-[:PRODUCT_ORDERED]->(p:Product)
+            WHERE o.date = $date
+            WITH p, SUM(o.quantity) AS total_quantity
+            RETURN p.product_id AS product_id, total_quantity
+            ORDER BY total_quantity DESC
+            LIMIT 5`,
+            { date }
+        );
+
+        const records = result.records.map(record => ({
+            product_id: record.get('product_id').toNumber(),
+            total_quantity: record.get('total_quantity').toNumber()
+        }));
+
+        res.json(records);
+    } catch (err) {
+        console.error('Error querying Neo4j:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+
+exports.addOrder = async function (req, res) {
+    const { order_id, date, quantity, amount, currency, shipping_id, fulfillment_id, sales_id, promotion_id, product_id, location_id, status_id } = req.body;
+
+    try {
+        const result = await session.run(
+            `CREATE (o:Order {
+                order_id: $order_id,
+                date: $date,
+                quantity: $quantity,
+                amount: $amount,
+                currency: $currency,
+                shipping_id: $shipping_id,
+                fulfillment_id: $fulfillment_id,
+                sales_id: $sales_id,
+                promotion_id: $promotion_id,
+                product_id: $product_id,
+                location_id: $location_id,
+                status_id: $status_id
             })
-            RETURN p.product_id AS ProductID, p.product_name AS ProductName, p.price AS Price,
-                   p.discounted_price AS DiscountedPrice, p.discount_percentage AS DiscountPercentage,
-                   p.product_link AS ProductLink, p.image_link AS ImageLink, p.description AS Description,
-                   p.category_id AS CategoryID
-        `, { 
-            id,
-            name,
-            price,
-            discount_price,
-            discount_percent,
-            product_link,
-            image_link,
-            description,
-            category_id
-        });
-        
-        const createdProduct = result.records[0];
-        
-        res.json({
-            message: 'Product added',
-            product: {
-                ProductID: createdProduct.get('ProductID'),
-                ProductName: createdProduct.get('ProductName'),
-                Price: createdProduct.get('Price'),
-                DiscountedPrice: createdProduct.get('DiscountedPrice'),
-                DiscountPercentage: createdProduct.get('DiscountPercentage'),
-                ProductLink: createdProduct.get('ProductLink'),
-                ImageLink: createdProduct.get('ImageLink'),
-                Description: createdProduct.get('Description'),
-                CategoryID: createdProduct.get('CategoryID')
-            }
-        });
-    } catch(err) {
-        console.error('Error querying Neo4j:', err);
+            RETURN o`,
+            { order_id, date, quantity, amount, currency, shipping_id, fulfillment_id, sales_id, promotion_id, product_id, location_id, status_id }
+        );
+
+        res.json(result.records[0].get('o').properties);
+    } catch (err) {
+        console.error('Error adding order to Neo4j:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
 };
 
-//Delete
-exports.deleteProduct = async function (req, res) {
+exports.updateOrder = async function (req, res) {
+    const order_id = req.params.order_id;
+    const { date, quantity, amount, currency, shipping_id, fulfillment_id, sales_id, promotion_id, product_id, location_id, status_id } = req.body;
+
     try {
-        const productName = req.params.productname;
-        
-        const result = await session.run(`
-            MATCH (p:Products {product_name: $productName})
-            DETACH DELETE p
-        `, { productName });
-        
-        res.json({ message: 'Product deleted', product: productName });
-    } catch(err) {
-        console.error('Error querying Neo4j:', err);
+        const result = await session.run(
+            `MATCH (o:Order { order_id: $order_id })
+            SET o.date = $date,
+                o.quantity = $quantity,
+                o.amount = $amount,
+                o.currency = $currency,
+                o.shipping_id = $shipping_id,
+                o.fulfillment_id = $fulfillment_id,
+                o.sales_id = $sales_id,
+                o.promotion_id = $promotion_id,
+                o.product_id = $product_id,
+                o.location_id = $location_id,
+                o.status_id = $status_id
+            RETURN o`,
+            { order_id, date, quantity, amount, currency, shipping_id, fulfillment_id, sales_id, promotion_id, product_id, location_id, status_id }
+        );
+
+        if (result.records.length === 0) {
+            res.status(404).json({ error: 'Order not found' });
+        } else {
+            res.json(result.records[0].get('o').properties);
+        }
+    } catch (err) {
+        console.error('Error updating order in Neo4j:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
 };
 
-//Update
-exports.updateProduct = async function (req, res) {
+exports.deleteOrder = async function (req, res) {
+    const order_id = req.params.order_id;
+
     try {
-        const productName = req.params.productname;
-        const { name, price, discount_price, discount_percent, product_link, image_link, description, category_id } = req.body;
-        
-        const result = await session.run(`
-            MATCH (p:Products {product_name: $productName})
-            SET p.product_name = $name,
-                p.price = $price,
-                p.discounted_price = $discount_price,
-                p.discount_percentage = $discount_percent,
-                p.product_link = $product_link,
-                p.image_link = $image_link,
-                p.description = $description,
-                p.category_id = $category_id
-            RETURN p.product_name AS ProductName,
-                   p.price AS Price,
-                   p.discounted_price AS DiscountedPrice,
-                   p.discount_percentage AS DiscountPercentage,
-                   p.product_link AS ProductLink,
-                   p.image_link AS ImageLink,
-                   p.description AS Description,
-                   p.category_id AS CategoryID
-        `, { 
-            productName,
-            name,
-            price,
-            discount_price,
-            discount_percent,
-            product_link,
-            image_link,
-            description,
-            category_id
-        });
-        
-        const updatedProduct = result.records[0];
-        
-        res.json({
-            message: 'Product updated',
-            product: {
-                ProductName: updatedProduct.get('ProductName'),
-                Price: updatedProduct.get('Price'),
-                DiscountedPrice: updatedProduct.get('DiscountedPrice'),
-                DiscountPercentage: updatedProduct.get('DiscountPercentage'),
-                ProductLink: updatedProduct.get('ProductLink'),
-                ImageLink: updatedProduct.get('ImageLink'),
-                Description: updatedProduct.get('Description'),
-                CategoryID: updatedProduct.get('CategoryID')
-            }
-        });
-    } catch(err) {
-        console.error('Error querying Neo4j:', err);
+        const result = await session.run(
+            `MATCH (o:Order { order_id: $order_id })
+            DETACH DELETE o`,
+            { order_id }
+        );
+
+        res.json({ message: 'Order deleted successfully' });
+    } catch (err) {
+        console.error('Error deleting order from Neo4j:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+};
+
+exports.getOrderById = async function (req, res) {
+    const order_id = req.params.order_id;
+
+    try {
+        const result = await session.run(
+            `MATCH (o:Order { order_id: $order_id })
+            RETURN o`,
+            { order_id }
+        );
+
+        if (result.records.length === 0) {
+            res.status(404).json({ error: 'Order not found' });
+        } else {
+            res.json(result.records[0].get('o').properties);
+        }
+    } catch (err) {
+        console.error('Error retrieving order from Neo4j:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
 };

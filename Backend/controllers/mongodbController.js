@@ -1,235 +1,114 @@
-const Products = require('../models/Products')
-const Categories = require('../models/Categories')
-const Ratings = require('../models/Ratings')
-const Reviews = require('../models/Reviews')
-const Users = require('../models/Users')
+const Behaviour = require("../models/Behaviour");
+const Cart = require("../models/Cart")
+const Data = require("../models/Data")
+const Recommendations = require("../models/Recommendations")
+const Review = require("../models/Review")
+const Satisfaction = require("../models/Satisfaction")
 
-exports.getTest = async function (req, res) {
+exports.getPurchaseFrequencyCounts = async function (req, res) {
     try {
-        const data = await Ratings.find({Rating:4});
-        res.json(data);
-        //console.log(data);
-    } catch (err) {
-        console.error('Error querying MongoDB:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-//Get review based on username
-exports.getReviews = async function (req, res) {
-    try {
-        const username = req.params.username;
-        const user = await Users.findOne({UserName: username});
-
-        const review = await Reviews.find({ UserID: user.UserID }).select('ReviewTitle ReviewContent').lean();
-
-        const response = review.map(reviews => ({
-            ReviewTitle: reviews.ReviewTitle,
-            ReviewContent: reviews.ReviewContent,
-            UserName: user.UserName
-        }));
-
-        res.json(response);
-
-    } catch (err) {
-        console.error('Error querying MongoDB:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-}
-
-//Get avg price, discount
-exports.getAverageDiscount = async function (req, res) {
-    try {
-        const result = await Products.aggregate([
+        const result = await Behaviour.aggregate([
             {
                 $group: {
-                    _id: null,
-                    PriceAvg: { $avg: "$Price" },
-                    DiscountPriceAvg: { $avg: "$DiscountedPrice" },
-                    DiscountPercentAvg: { $avg: "$DiscountPercentage" }
+                    _id: "$PurchaseFrequency",
+                    count: { $sum: 1 }
                 }
             },
             {
-                $project: {
-                    _id: 0,
-                    PriceAvg: 1,
-                    DiscountPriceAvg: 1,
-                    DiscountPercentAvg: 1
-                }
+                $sort: { count: -1 }
             }
         ]);
 
-        res.json(result[0] || {});
+        const purchaseFrequencyCounts = result.map(result => ({
+            PurchaseFrequency: result._id,
+            count: result.count
+        }));
+
+        res.json({ purchaseFrequencyCounts });
+
     } catch (err) {
         console.error('Error querying MongoDB:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
 }
 
-//Large join
-exports.getEverything = async function (req, res) {
-    const username = req.params.username;
+exports.getPurchaseCategoriesCounts = async function (req, res) {
     try {
-        const result = await Users.aggregate([
+        const result = await Behaviour.aggregate([
             {
-                $match: { UserName: username }
-            },
-            {
-                $lookup: {
-                    from: 'Reviews',
-                    localField: 'UserID',
-                    foreignField: 'UserID',
-                    as: 'reviews'
+                $group: {
+                    _id: "$PurchaseCategories",
+                    count: { $sum: 1 }
                 }
             },
             {
-                $unwind: '$reviews'
-            },
-            {
-                $lookup: {
-                    from: 'Products',
-                    localField: 'reviews.ProductID',
-                    foreignField: 'ProductID',
-                    as: 'product'
-                }
-            },
-            {
-                $unwind: '$product'
-            },
-            {
-                $lookup: {
-                    from: 'Ratings',
-                    localField: 'product.ProductID',
-                    foreignField: 'ProductID',
-                    as: 'ratings'
-                }
-            },
-            {
-                $unwind: '$ratings'
-            },
-            {
-                $lookup: {
-                    from: 'Categories',
-                    localField: 'product.CategoryID',
-                    foreignField: 'CategoryID',
-                    as: 'category'
-                }
-            },
-            {
-                $unwind: '$category'
-            },
-            {
-                $project: {
-                    UserName: '$UserName',
-                    ReviewTitle: '$reviews.ReviewTitle',
-                    ProductName: '$product.ProductName',
-                    Rating: '$ratings.Rating',
-                    Category: '$category.Category'
-                }
+                $sort: { count: -1 }
             }
         ]);
 
-        res.json(result);
+        const purchaseCategoriesCounts = result.map(result => ({
+            PurchaseCategories: result._id,
+            count: result.count
+        }));
+
+        res.json({ purchaseCategoriesCounts });
+
     } catch (err) {
         console.error('Error querying MongoDB:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
-};
+}
 
-
-//Get without join but a lot of data
-exports.getAllProducts = async function (req, res) {
+exports.getPersonalizedRecommendationFrequencyCounts = async function (req, res) {
     try {
-        const products = await Products.find({}, {
-            ProductID: 1,
-            ProductName: 1,
-            Price: 1,
-            DiscountedPrice: 1,
-            DiscountPercentage: 1,
-            ProductLink: 1,
-            ImageLink: 1,
-            Description: 1,
-            CategoryID: 1
-        }).lean();
-
-        res.json(products);
-    } catch (err) {
-        console.error('Error querying MongoDB:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-//Insert
-exports.addNewProduct = async function (req, res) {
-    try {
-        const { name, price, discount_price, discount_percent, product_link, image_link, description, category_id } = req.body;
-
-        const newProduct = new Products({
-            ProductName: name,
-            Price: price,
-            DiscountedPrice: discount_price,
-            DiscountPercentage: discount_percent,
-            ProductLink: product_link,
-            ImageLink: image_link,
-            Description: description,
-            CategoryID: category_id
-        });
-
-        await newProduct.save();
-
-        res.json({ message: 'Product added', product: newProduct });
-    } catch (err) {
-        console.error('Error adding product:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-//Delete
-exports.deleteProduct = async function (req, res) {
-    try {
-        const productName = req.params.productname;
-
-        const deletedProduct = await Products.findOneAndDelete({ ProductName: productName });
-
-        if (!deletedProduct) {
-            return res.status(404).json({ error: 'Product not found' });
-        }
-
-        res.json({ message: 'Product deleted', product: deletedProduct });
-    } catch (err) {
-        console.error('Error deleting product:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-};
-
-//Update
-exports.updateProduct = async function (req, res) {
-    try {
-        const productName = req.params.productname;
-        const { name, price, discount_price, discount_percent, product_link, image_link, description, category_id } = req.body;
-
-        const updatedProduct = await Products.findOneAndUpdate(
-            { ProductName: productName },
+        const result = await Behaviour.aggregate([
             {
-                ProductName: name,
-                Price: price,
-                DiscountedPrice: discount_price,
-                DiscountPercentage: discount_percent,
-                ProductLink: product_link,
-                ImageLink: image_link,
-                Description: description,
-                CategoryID: category_id
+                $group: {
+                    _id: "$PersonalizedRecommendationFrequency",
+                    count: { $sum: 1 }
+                }
             },
-            { new: true }
-        );
+            {
+                $sort: { count: -1 }
+            }
+        ]);
 
-        if (!updatedProduct) {
-            return res.status(404).json({ error: 'Product not found' });
-        }
+        const personalizedRecommendationFrequencyCounts = result.map(result => ({
+            PersonalizedRecommendationFrequency: result._id,
+            count: result.count
+        }));
 
-        res.json({ message: 'Product updated', product: updatedProduct });
+        res.json({ personalizedRecommendationFrequencyCounts });
+
     } catch (err) {
-        console.error('Error updating product:', err);
+        console.error('Error querying MongoDB:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
-};
+}
+
+exports.getBrowsingFrequencyCounts = async function (req, res) {
+    try {
+        const result = await Behaviour.aggregate([
+            {
+                $group: {
+                    _id: "$BrowsingFrequency",
+                    count: { $sum: 1 }
+                }
+            },
+            {
+                $sort: { count: -1 }
+            }
+        ]);
+
+        const browsingFrequencyCounts = result.map(result => ({
+            BrowsingFrequency: result._id,
+            count: result.count
+        }));
+
+        res.json({ browsingFrequencyCounts });
+
+    } catch (err) {
+        console.error('Error querying MongoDB:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+}

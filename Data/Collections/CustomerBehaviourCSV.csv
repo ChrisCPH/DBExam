@@ -1,0 +1,603 @@
+PurchaseFrequency;PurchaseCategories;PersonalizedRecommendationFrequency;BrowsingFrequency;ProductSearchMethod;SearchResultExploration;SaveforlaterFrequency
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Yes;Few times a month;Keyword;Multiple pages;Rarely
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion";No;Few times a month;Keyword;Multiple pages;Rarely
+Once a month;"Beauty and Personal Care;Clothing and Fashion;others";Sometimes;Few times a month;Keyword;First page;Sometimes
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a month;Filter;Multiple pages;Rarely
+Less than once a month;Clothing and Fashion;No;Rarely;categories;Multiple pages;Never
+Less than once a month;Clothing and Fashion;No;Rarely;Filter;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Rarely;Keyword;Multiple pages;Rarely
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a month;Keyword;First page;Often
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Rarely;Keyword;Multiple pages;Rarely
+Less than once a month;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;Keyword;First page;Rarely
+Once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Keyword;Multiple pages;Often
+Less than once a month;Beauty and Personal Care;Yes;Few times a week;Keyword;Multiple pages;Always
+Less than once a month;others;No;Rarely;Filter;First page;Sometimes
+Few times a month;"Clothing and Fashion;others";Sometimes;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;Clothing and Fashion;No;Few times a month;Keyword;Multiple pages;Never
+Few times a month;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a month;Keyword;Multiple pages;Rarely
+Less than once a month;Beauty and Personal Care;No;Few times a week;Keyword;Multiple pages;Rarely
+Once a week;Groceries and Gourmet Food;No;Few times a month;Keyword;Multiple pages;Never
+Once a month;Clothing and Fashion;No;Few times a month;others;First page;Sometimes
+Less than once a month;others;No;Few times a week;others;Multiple pages;Never
+Less than once a month;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;others";No;Few times a month;Keyword;Multiple pages;Rarely
+Multiple times a week;Groceries and Gourmet Food;Yes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a week;Keyword;Multiple pages;Often
+Less than once a month;Beauty and Personal Care;No;Few times a month;categories;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;others";Sometimes;Few times a week;categories;Multiple pages;Often
+Less than once a month;Clothing and Fashion;Yes;Few times a month;Keyword;Multiple pages;Rarely
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion;others";No;Few times a week;Keyword;Multiple pages;Never
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;First page;Always
+Less than once a month;others;No;Rarely;others;First page;Never
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Keyword;Multiple pages;Rarely
+Less than once a month;others;Sometimes;Multiple times a day;Keyword;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Keyword;First page;Often
+Less than once a month;"Beauty and Personal Care;Home and Kitchen";Sometimes;Rarely;categories;Multiple pages;Rarely
+Once a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Often
+Few times a month;Clothing and Fashion;Yes;Few times a week;Keyword;Multiple pages;Rarely
+Less than once a month;others;Yes;Few times a month;Keyword;Multiple pages;Sometimes
+Less than once a month;others;No;Rarely;Keyword;First page;Never
+Once a month;Home and Kitchen;No;Few times a month;Filter;Multiple pages;Often
+Less than once a month;"Beauty and Personal Care;others";No;Few times a month;others;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;categories;Multiple pages;Never
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a week;Keyword;Multiple pages;Always
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a month;Keyword;Multiple pages;Always
+Less than once a month;Clothing and Fashion;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;others;No;Few times a week;Keyword;Multiple pages;Always
+Few times a month;Clothing and Fashion;No;Few times a month;Keyword;Multiple pages;Often
+Once a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;others;Sometimes;Few times a week;Keyword;First page;Often
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;Keyword;Multiple pages;Rarely
+Few times a month;Home and Kitchen;No;Few times a month;Keyword;First page;Often
+Less than once a month;Clothing and Fashion;No;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;"Beauty and Personal Care;Home and Kitchen";No;Rarely;Filter;Multiple pages;Sometimes
+Few times a month;"Clothing and Fashion;others";Yes;Few times a week;Keyword;First page;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a month;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Never
+Once a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Often
+Once a month;others;Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;Keyword;First page;Sometimes
+Less than once a month;others;Sometimes;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;others;No;Few times a week;categories;Multiple pages;Rarely
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a month;categories;First page;Sometimes
+Few times a month;others;No;Few times a week;Keyword;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Home and Kitchen;others";Sometimes;Few times a month;categories;First page;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;categories;Multiple pages;Never
+Once a month;others;Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;others;No;Few times a month;Keyword;First page;Never
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a month;Keyword;Multiple pages;Often
+Once a month;"Home and Kitchen;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Never
+Less than once a month;Home and Kitchen;No;Rarely;Filter;Multiple pages;Sometimes
+Once a month;"Home and Kitchen;others";No;Few times a month;Keyword;First page;Often
+Less than once a month;others;No;Rarely;categories;Multiple pages;Never
+Less than once a month;Home and Kitchen;Yes;Few times a month;Keyword;Multiple pages;Rarely
+Once a week;"Groceries and Gourmet Food;Home and Kitchen";Yes;Few times a week;Filter;Multiple pages;Always
+Less than once a month;others;No;Rarely;categories;Multiple pages;Often
+Less than once a month;others;Sometimes;Rarely;others;First page;Never
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;categories;Multiple pages;Always
+Once a month;"Clothing and Fashion;others";No;Few times a week;Keyword;Multiple pages;Never
+Less than once a month;Home and Kitchen;No;Few times a week;Keyword;Multiple pages;Never
+Once a week;Beauty and Personal Care;No;Multiple times a day;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion";Yes;Few times a week;Filter;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Rarely;categories;Multiple pages;Rarely
+Less than once a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;First page;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a week;Filter;Multiple pages;Always
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a month;Keyword;Multiple pages;Never
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";No;Multiple times a day;categories;First page;Often
+Few times a month;others;No;Rarely;others;Multiple pages;Never
+Few times a month;Groceries and Gourmet Food;Yes;Multiple times a day;Keyword;Multiple pages;Often
+Once a month;"Beauty and Personal Care;Home and Kitchen;others";No;Few times a week;Keyword;Multiple pages;Always
+Less than once a month;Beauty and Personal Care;Sometimes;Rarely;Filter;Multiple pages;Often
+Less than once a month;others;No;Rarely;others;First page;Never
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a month;categories;First page;Rarely
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;Multiple pages;Often
+Less than once a month;others;Yes;Few times a month;categories;Multiple pages;Rarely
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;First page;Often
+Less than once a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Never
+Few times a month;"Clothing and Fashion;others";No;Few times a month;categories;First page;Sometimes
+Once a month;"Home and Kitchen;others";Sometimes;Rarely;others;Multiple pages;Often
+Once a week;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;others";Sometimes;Few times a month;Keyword;Multiple pages;Rarely
+Less than once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Never
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Keyword;Multiple pages;Always
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Less than once a month;others;Yes;Few times a month;Keyword;Multiple pages;Never
+Once a week;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;others;Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;others;No;Few times a month;Keyword;Multiple pages;Often
+Less than once a month;Clothing and Fashion;Sometimes;Rarely;categories;First page;Sometimes
+Few times a month;"Clothing and Fashion;others";No;Few times a week;Keyword;Multiple pages;Never
+Less than once a month;others;No;Rarely;Keyword;First page;Rarely
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a month;Keyword;Multiple pages;Often
+Multiple times a week;"Clothing and Fashion;Home and Kitchen";Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Home and Kitchen";No;Multiple times a day;categories;Multiple pages;Often
+Less than once a month;Clothing and Fashion;No;Rarely;Keyword;Multiple pages;Never
+Once a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a week;categories;Multiple pages;Often
+Once a month;Clothing and Fashion;Sometimes;Few times a week;;Multiple pages;Often
+Less than once a month;"Clothing and Fashion;others";No;Few times a month;Keyword;Multiple pages;Rarely
+Once a month;others;Sometimes;Few times a month;Keyword;Multiple pages;Often
+Once a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Rarely;Keyword;First page;Never
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;First page;Rarely
+Few times a month;others;No;Few times a week;categories;Multiple pages;Sometimes
+Once a week;"Clothing and Fashion;others";No;Few times a week;categories;First page;Often
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a week;Filter;First page;Sometimes
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a month;Filter;First page;Sometimes
+Once a week;Beauty and Personal Care;Yes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;Filter;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a month;categories;First page;Often
+Few times a month;Beauty and Personal Care;No;Multiple times a day;Filter;First page;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen";No;Few times a month;Filter;Multiple pages;Often
+Less than once a month;others;Sometimes;Rarely;others;First page;Never
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Rarely;Keyword;Multiple pages;Always
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Once a week;Beauty and Personal Care;No;Few times a month;categories;First page;Sometimes
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen;others";Yes;Few times a month;Keyword;Multiple pages;Always
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;Multiple pages;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;others";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Once a week;"Beauty and Personal Care;Home and Kitchen";No;Few times a week;categories;First page;Often
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;categories;Multiple pages;Often
+Less than once a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others";Yes;Rarely;Keyword;First page;Always
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Filter;First page;Rarely
+Few times a month;"Beauty and Personal Care;others";No;Few times a week;Keyword;First page;Sometimes
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen;others";No;Rarely;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Rarely;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a week;categories;Multiple pages;Always
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";No;Multiple times a day;Filter;Multiple pages;Always
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;Keyword;Multiple pages;Sometimes
+Less than once a month;others;No;Few times a month;Keyword;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care";No;Few times a week;Filter;Multiple pages;Often
+Once a week;"Beauty and Personal Care;others";No;Few times a week;Filter;First page;Rarely
+Once a month;Clothing and Fashion;No;Few times a month;categories;First page;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Multiple times a day;Filter;First page;Often
+Once a week;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;First page;Always
+Few times a month;Beauty and Personal Care;No;Rarely;categories;First page;Often
+Once a week;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Keyword;First page;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care";No;Few times a month;categories;First page;Often
+Less than once a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;categories;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;First page;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;First page;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion;others";No;Rarely;others;First page;Always
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";No;Few times a week;categories;Multiple pages;Always
+Once a month;Beauty and Personal Care;No;Few times a week;Keyword;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Home and Kitchen;others";No;Rarely;Filter;Multiple pages;Never
+Few times a month;Beauty and Personal Care;No;Few times a month;categories;First page;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Filter;Multiple pages;Rarely
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen";No;Few times a week;Filter;First page;Sometimes
+Once a month;Beauty and Personal Care;No;Few times a month;categories;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Rarely;Keyword;Multiple pages;Often
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a week;Keyword;Multiple pages;Often
+Once a month;others;No;Few times a month;Filter;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";No;Few times a week;categories;Multiple pages;Never
+Once a month;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Never
+Few times a month;Beauty and Personal Care;Yes;Multiple times a day;Filter;Multiple pages;Always
+Few times a month;Beauty and Personal Care;Yes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;No;Few times a week;Filter;Multiple pages;Often
+Once a month;Beauty and Personal Care;Yes;Few times a week;others;First page;Sometimes
+Once a month;others;No;Few times a month;Keyword;Multiple pages;Never
+Less than once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Keyword;First page;Sometimes
+Less than once a month;Clothing and Fashion;No;Few times a month;categories;First page;Never
+Less than once a month;Beauty and Personal Care;No;Rarely;categories;First page;Never
+Few times a month;Clothing and Fashion;No;Few times a month;Filter;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;others";No;Few times a month;Keyword;Multiple pages;Often
+Once a week;Groceries and Gourmet Food;Yes;Multiple times a day;Filter;Multiple pages;Often
+Once a week;Groceries and Gourmet Food;No;Few times a week;categories;First page;Rarely
+Few times a month;Groceries and Gourmet Food;No;Few times a month;Keyword;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Yes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Yes;Few times a month;Keyword;Multiple pages;Always
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Never
+Once a month;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Often
+Once a month;Beauty and Personal Care;Yes;Few times a week;categories;Multiple pages;Often
+Once a month;others;Sometimes;Rarely;others;First page;Always
+Less than once a month;others;No;Rarely;others;Multiple pages;Never
+Less than once a month;Home and Kitchen;Sometimes;Rarely;categories;Multiple pages;Rarely
+Less than once a month;Clothing and Fashion;Sometimes;Few times a month;Keyword;Multiple pages;Rarely
+Less than once a month;others;No;Rarely;Keyword;Multiple pages;Never
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Keyword;Multiple pages;Always
+Once a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Rarely
+Less than once a month;Clothing and Fashion;No;Rarely;Keyword;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;others";Sometimes;Few times a week;Filter;Multiple pages;Never
+Few times a month;"Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Home and Kitchen;others";Yes;Few times a week;Keyword;Multiple pages;Often
+Once a week;others;No;Few times a week;Keyword;Multiple pages;Often
+Few times a month;Home and Kitchen;Sometimes;Few times a week;Filter;First page;Sometimes
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Often
+Few times a month;others;No;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;categories;Multiple pages;Never
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Few times a week;categories;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Home and Kitchen;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Always
+Less than once a month;Clothing and Fashion;Yes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Clothing and Fashion;No;Rarely;categories;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Home and Kitchen";Yes;Few times a week;Keyword;First page;Rarely
+Once a month;Clothing and Fashion;Sometimes;Few times a month;Keyword;Multiple pages;Sometimes
+Less than once a month;others;No;Rarely;Keyword;Multiple pages;Rarely
+Less than once a month;others;No;Few times a week;Keyword;First page;Often
+Few times a month;Home and Kitchen;Yes;Few times a week;categories;Multiple pages;Often
+Less than once a month;others;Sometimes;Rarely;Keyword;First page;Often
+Once a month;Home and Kitchen;No;Rarely;categories;Multiple pages;Often
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;Keyword;Multiple pages;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Never
+Less than once a month;Clothing and Fashion;Yes;Few times a month;others;First page;Sometimes
+Few times a month;Home and Kitchen;No;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;others";No;Few times a month;categories;Multiple pages;Rarely
+Once a month;"Clothing and Fashion;others";No;Few times a week;Keyword;First page;Rarely
+Less than once a month;"Clothing and Fashion;others";Yes;Few times a month;Keyword;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Few times a week;Keyword;Multiple pages;Rarely
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a week;categories;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Home and Kitchen";No;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;Filter;First page;Sometimes
+Once a week;Beauty and Personal Care;No;Few times a month;categories;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Filter;Multiple pages;Rarely
+Once a week;Clothing and Fashion;No;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;No;Few times a week;Filter;Multiple pages;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;No;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;No;Few times a month;categories;Multiple pages;Sometimes
+Less than once a month;others;No;Rarely;categories;Multiple pages;Never
+Less than once a month;Clothing and Fashion;No;Rarely;categories;Multiple pages;Always
+Less than once a month;others;No;Rarely;Keyword;Multiple pages;Never
+Once a week;"Beauty and Personal Care;Home and Kitchen";No;Few times a month;Filter;Multiple pages;Sometimes
+Once a month;others;No;Few times a week;categories;Multiple pages;Rarely
+Few times a month;"Groceries and Gourmet Food;Home and Kitchen";Sometimes;Few times a week;Filter;Multiple pages;Always
+Once a week;Clothing and Fashion;Yes;Few times a week;others;Multiple pages;Often
+Once a week;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Yes;Few times a week;Filter;First page;Sometimes
+Once a week;Beauty and Personal Care;Yes;Multiple times a day;Keyword;Multiple pages;Always
+Few times a month;Clothing and Fashion;No;Few times a week;Filter;First page;Often
+Once a week;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Always
+Few times a month;Clothing and Fashion;No;Few times a week;categories;Multiple pages;Always
+Less than once a month;"Beauty and Personal Care;others";No;Few times a month;Keyword;Multiple pages;Always
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a week;Keyword;Multiple pages;Always
+Once a week;"Beauty and Personal Care;Home and Kitchen";Yes;Few times a month;Filter;Multiple pages;Often
+Once a week;Clothing and Fashion;No;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;"Home and Kitchen;others";No;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;No;Few times a week;categories;Multiple pages;Often
+Once a week;Clothing and Fashion;Sometimes;Rarely;Keyword;Multiple pages;Rarely
+Once a week;Groceries and Gourmet Food;Yes;Few times a week;Filter;First page;Rarely
+Once a week;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Filter;First page;Often
+Once a week;Beauty and Personal Care;No;Few times a week;categories;First page;Often
+Once a week;Clothing and Fashion;No;Few times a week;Filter;Multiple pages;Often
+Once a month;Groceries and Gourmet Food;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;others;No;Rarely;Keyword;Multiple pages;Often
+Less than once a month;Clothing and Fashion;Yes;Few times a week;Keyword;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a week;categories;Multiple pages;Often
+Once a week;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a week;Filter;Multiple pages;Rarely
+Few times a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Keyword;Multiple pages;Often
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Multiple times a day;Keyword;Multiple pages;Never
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Yes;Few times a week;Keyword;Multiple pages;Always
+Multiple times a week;Clothing and Fashion;Yes;Rarely;Keyword;First page;Rarely
+Few times a month;Groceries and Gourmet Food;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Yes;Few times a week;Filter;First page;Rarely
+Few times a month;Beauty and Personal Care;No;Few times a week;categories;First page;Always
+Multiple times a week;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a week;Filter;First page;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;No;Multiple times a day;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Filter;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Multiple times a day;Keyword;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care";Sometimes;Rarely;others;First page;Never
+Less than once a month;others;Sometimes;Rarely;others;First page;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;Multiple pages;Often
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen;others";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a month;categories;Multiple pages;Often
+Once a week;Beauty and Personal Care;No;Few times a month;categories;First page;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Filter;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";No;Rarely;Filter;First page;Never
+Once a month;"Clothing and Fashion;others";No;Rarely;Keyword;First page;Rarely
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;others";Yes;Multiple times a day;Keyword;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";No;Few times a week;Keyword;Multiple pages;Often
+Less than once a month;others;No;Rarely;others;First page;Never
+Once a month;Clothing and Fashion;Yes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;Sometimes;Rarely;categories;First page;Rarely
+Multiple times a week;Home and Kitchen;Yes;Multiple times a day;others;Multiple pages;Always
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;others";No;Few times a week;categories;First page;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Filter;Multiple pages;Always
+Once a week;"Beauty and Personal Care;Home and Kitchen;others";No;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;No;Few times a month;Keyword;Multiple pages;Always
+Once a week;Beauty and Personal Care;Yes;Few times a month;categories;Multiple pages;Sometimes
+Less than once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Keyword;Multiple pages;Rarely
+Once a week;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Multiple times a day;categories;First page;Sometimes
+Less than once a month;"Home and Kitchen;others";No;Few times a week;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Keyword;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a week;Filter;Multiple pages;Often
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen";No;Rarely;Keyword;Multiple pages;Sometimes
+Once a week;"Clothing and Fashion;Home and Kitchen;others";No;Few times a month;categories;Multiple pages;Often
+Once a month;"Beauty and Personal Care;Clothing and Fashion;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;others";Sometimes;Few times a month;categories;First page;Often
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;others;First page;Often
+Once a month;Home and Kitchen;Sometimes;Few times a week;Filter;First page;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;Multiple pages;Often
+Multiple times a week;Beauty and Personal Care;Yes;Multiple times a day;Keyword;Multiple pages;Always
+Once a month;Clothing and Fashion;No;Few times a week;categories;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Less than once a month;"Clothing and Fashion;others";Sometimes;Rarely;others;First page;Rarely
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a week;categories;Multiple pages;Rarely
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a week;Keyword;Multiple pages;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Filter;First page;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;First page;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Keyword;Multiple pages;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;First page;Often
+Once a month;"Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;categories;First page;Sometimes
+Once a month;"Beauty and Personal Care;Home and Kitchen;others";Sometimes;Few times a month;categories;First page;Often
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen";Yes;Few times a week;Keyword;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;others";No;Few times a week;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;First page;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a week;"Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Often
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;others";Sometimes;Few times a week;Filter;Multiple pages;Often
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Keyword;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion";No;Few times a month;categories;First page;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care";Sometimes;Few times a month;Keyword;Multiple pages;Never
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Keyword;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Keyword;Multiple pages;Always
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Keyword;Multiple pages;Sometimes
+Once a week;"Clothing and Fashion;Home and Kitchen;others";No;Multiple times a day;Keyword;First page;Rarely
+Few times a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Rarely;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;categories;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a month;others;Multiple pages;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Keyword;First page;Rarely
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;Filter;First page;Sometimes
+Less than once a month;"Home and Kitchen;others";Sometimes;Rarely;others;First page;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care";No;Few times a week;Filter;Multiple pages;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Filter;First page;Often
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Multiple times a day;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Keyword;Multiple pages;Often
+Less than once a month;"Groceries and Gourmet Food;Home and Kitchen;others";Sometimes;Rarely;Keyword;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;categories;First page;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Multiple times a day;categories;Multiple pages;Sometimes
+Less than once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a month;Keyword;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Multiple times a day;;Multiple pages;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";Yes;Few times a month;categories;First page;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Filter;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;Keyword;Multiple pages;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen";No;Few times a month;Filter;First page;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Once a week;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;Multiple pages;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;First page;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion;others";Yes;Few times a week;Keyword;Multiple pages;Often
+Less than once a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;Keyword;Multiple pages;Often
+Multiple times a week;"Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;First page;Often
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others";No;Few times a month;others;First page;Sometimes
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;others";Yes;Few times a week;Keyword;Multiple pages;Always
+Less than once a month;Home and Kitchen;No;Rarely;categories;Multiple pages;Rarely
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;First page;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Multiple times a day;Keyword;Multiple pages;Sometimes
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Rarely;Keyword;Multiple pages;Never
+Less than once a month;"Beauty and Personal Care;Clothing and Fashion";Yes;Few times a month;Keyword;Multiple pages;Rarely
+Few times a month;Home and Kitchen;No;Few times a month;categories;First page;Sometimes
+Once a month;Clothing and Fashion;No;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Rarely;others;Multiple pages;Sometimes
+Once a week;Home and Kitchen;No;Few times a week;Filter;Multiple pages;Sometimes
+Less than once a month;others;Sometimes;Rarely;categories;First page;Never
+Less than once a month;others;Sometimes;Rarely;categories;First page;Never
+Few times a month;Home and Kitchen;Yes;Few times a week;Keyword;First page;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Rarely
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;categories;First page;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Filter;Multiple pages;Rarely
+Few times a month;Clothing and Fashion;Sometimes;Rarely;categories;First page;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;Keyword;Multiple pages;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion";Yes;Multiple times a day;Filter;First page;Often
+Once a month;Home and Kitchen;No;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;Keyword;Multiple pages;Often
+Once a week;"Beauty and Personal Care;Clothing and Fashion;others";No;Few times a week;Filter;Multiple pages;Always
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Multiple times a day;Keyword;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;Filter;Multiple pages;Often
+Once a week;Clothing and Fashion;Yes;Few times a week;categories;First page;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen";Yes;Few times a month;Keyword;First page;Rarely
+Once a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Rarely
+Once a week;Clothing and Fashion;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;"Groceries and Gourmet Food;Clothing and Fashion;others";Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a month;others;Sometimes;Few times a month;others;First page;Rarely
+Once a week;Groceries and Gourmet Food;No;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen";Yes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Often
+Few times a month;Clothing and Fashion;Sometimes;Few times a month;others;First page;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Often
+Once a month;Clothing and Fashion;No;Few times a month;categories;Multiple pages;Often
+Few times a month;others;No;Few times a month;categories;First page;Often
+Few times a month;Clothing and Fashion;No;Few times a week;Filter;Multiple pages;Rarely
+Once a month;Home and Kitchen;No;Few times a week;categories;First page;Often
+Multiple times a week;Beauty and Personal Care;No;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Yes;Multiple times a day;categories;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Rarely;others;First page;Never
+Few times a month;"Groceries and Gourmet Food;Home and Kitchen";Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a month;categories;First page;Sometimes
+Few times a month;Clothing and Fashion;Yes;Multiple times a day;Keyword;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a week;categories;First page;Always
+Once a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;First page;Sometimes
+Few times a month;"Beauty and Personal Care;others";Sometimes;Few times a month;categories;First page;Sometimes
+Less than once a month;Clothing and Fashion;No;Multiple times a day;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Often
+Once a month;"Beauty and Personal Care;Home and Kitchen";Yes;Few times a week;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion";Sometimes;Few times a month;categories;Multiple pages;Rarely
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Rarely;categories;Multiple pages;Often
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;Filter;First page;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;First page;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Often
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Rarely
+Few times a month;Clothing and Fashion;Yes;Few times a week;Keyword;Multiple pages;Often
+Few times a month;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion;others";Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Multiple times a day;categories;Multiple pages;Sometimes
+Few times a month;Home and Kitchen;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a month;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Rarely
+Few times a month;Clothing and Fashion;No;Few times a week;categories;First page;Rarely
+Few times a month;Beauty and Personal Care;No;Few times a month;Filter;First page;Often
+Once a week;Beauty and Personal Care;No;Few times a month;categories;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;Filter;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;categories;First page;Often
+Few times a month;Beauty and Personal Care;No;Few times a week;others;First page;Often
+Once a week;Clothing and Fashion;No;Few times a week;categories;First page;Sometimes
+Few times a month;Home and Kitchen;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Beauty and Personal Care;No;Few times a week;Filter;First page;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Less than once a month;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Never
+Once a week;Clothing and Fashion;Sometimes;Few times a month;Keyword;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;Filter;Multiple pages;Rarely
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Often
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;Clothing and Fashion;Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Less than once a month;Clothing and Fashion;Sometimes;Rarely;categories;Multiple pages;Sometimes
+Once a month;Home and Kitchen;Sometimes;Few times a week;Keyword;Multiple pages;Often
+Once a month;"Clothing and Fashion;Home and Kitchen;others";No;Few times a week;others;Multiple pages;Rarely
+Less than once a month;Home and Kitchen;No;Rarely;Keyword;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Yes;Rarely;categories;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Rarely;Filter;First page;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;categories;First page;Rarely
+Few times a month;Clothing and Fashion;Yes;Multiple times a day;Keyword;Multiple pages;Always
+Few times a month;Beauty and Personal Care;Yes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion";Yes;Multiple times a day;Keyword;Multiple pages;Often
+Few times a month;Clothing and Fashion;No;Multiple times a day;categories;First page;Never
+Once a month;"Clothing and Fashion;Home and Kitchen";No;Rarely;others;First page;Sometimes
+Once a month;Home and Kitchen;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;First page;Sometimes
+Once a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";No;Few times a month;Keyword;Multiple pages;Sometimes
+Once a month;"Clothing and Fashion;Home and Kitchen;others";No;Multiple times a day;Filter;First page;Rarely
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;categories;First page;Often
+Once a month;"Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;Keyword;First page;Always
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Filter;First page;Always
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a month;categories;First page;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Rarely;others;First page;Never
+Less than once a month;"Home and Kitchen;others";No;Rarely;others;First page;Never
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Rarely;others;First page;Never
+Once a month;Groceries and Gourmet Food;Sometimes;Few times a month;categories;First page;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;others;Multiple pages;Sometimes
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care";Yes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a month;Filter;First page;Sometimes
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;Keyword;First page;Often
+Few times a month;"Clothing and Fashion;Home and Kitchen;others";Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Less than once a month;"Home and Kitchen;others";Sometimes;Few times a month;categories;First page;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;Filter;First page;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Yes;Few times a week;Keyword;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Yes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Rarely;Keyword;First page;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;categories;First page;Sometimes
+Once a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;categories;First page;Rarely
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";Yes;Few times a week;Keyword;First page;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Rarely;Keyword;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;categories;Multiple pages;Often
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others";Sometimes;Multiple times a day;categories;Multiple pages;Often
+Few times a month;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a month;categories;First page;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a month;categories;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Rarely;categories;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion";No;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";No;Few times a month;categories;Multiple pages;Often
+Once a month;Beauty and Personal Care;Sometimes;Multiple times a day;Filter;Multiple pages;Often
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";No;Few times a week;categories;Multiple pages;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";No;Few times a week;Filter;Multiple pages;Often
+Few times a month;"Clothing and Fashion;others";No;Few times a week;Keyword;Multiple pages;Often
+Multiple times a week;"Beauty and Personal Care;Clothing and Fashion;Home and Kitchen";Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;"Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion";Sometimes;Few times a week;Filter;First page;Often
+Few times a month;"Groceries and Gourmet Food;Beauty and Personal Care";No;Few times a month;categories;First page;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Clothing and Fashion;No;Few times a week;categories;First page;Sometimes
+Once a week;"Groceries and Gourmet Food;Clothing and Fashion";No;Multiple times a day;Keyword;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;No;Few times a week;Keyword;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Few times a week;Keyword;First page;Sometimes
+Once a week;Beauty and Personal Care;Yes;Few times a week;categories;Multiple pages;Sometimes
+Less than once a month;Home and Kitchen;Sometimes;Few times a month;categories;Multiple pages;Rarely
+Few times a month;Groceries and Gourmet Food;Sometimes;Multiple times a day;categories;Multiple pages;Rarely
+Few times a month;Beauty and Personal Care;Yes;Few times a month;others;Multiple pages;Often
+Once a week;Clothing and Fashion;Sometimes;Multiple times a day;categories;Multiple pages;Sometimes
+Once a month;Beauty and Personal Care;Sometimes;Few times a month;Keyword;Multiple pages;Rarely
+Few times a month;Beauty and Personal Care;Sometimes;Few times a month;categories;First page;Always
+Once a week;Beauty and Personal Care;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Few times a month;Groceries and Gourmet Food;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Yes;Few times a week;categories;Multiple pages;Always
+Few times a month;Beauty and Personal Care;Sometimes;Multiple times a day;categories;Multiple pages;Often
+Multiple times a week;Beauty and Personal Care;Yes;Few times a week;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Often
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Yes;Few times a week;Keyword;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Always
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;Keyword;Multiple pages;Sometimes
+Few times a month;Clothing and Fashion;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a month;Clothing and Fashion;Sometimes;Few times a month;Filter;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Multiple times a week;"Beauty and Personal Care;Home and Kitchen";Sometimes;Few times a month;Keyword;Multiple pages;Always
+Multiple times a week;Beauty and Personal Care;Sometimes;Few times a month;categories;Multiple pages;Often
+Once a week;Groceries and Gourmet Food;Sometimes;Few times a week;categories;Multiple pages;Always
+Once a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Rarely
+Few times a month;Beauty and Personal Care;Yes;Few times a week;Keyword;First page;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Multiple times a day;categories;Multiple pages;Sometimes
+Once a week;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Few times a week;Filter;Multiple pages;Sometimes
+Once a month;Beauty and Personal Care;Sometimes;Few times a week;categories;Multiple pages;Sometimes
+Few times a month;"Beauty and Personal Care;Clothing and Fashion;others";Yes;Few times a month;Keyword;Multiple pages;Sometimes
+Once a week;Clothing and Fashion;Sometimes;Multiple times a day;Keyword;Multiple pages;Sometimes

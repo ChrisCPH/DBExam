@@ -1,0 +1,4816 @@
+[{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40e9"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ea"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40eb"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ec"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ed"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ee"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ef"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f1"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f3"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f4"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f5"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f6"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40f9"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40fa"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40fb"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40fc"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40fd"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40fe"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d40ff"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4100"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4101"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4102"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4103"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4104"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4105"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4106"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4107"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4108"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4109"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d410f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4110"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4111"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4112"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4113"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4114"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4115"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4116"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4117"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4118"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4119"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d411f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4120"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4121"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4122"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4123"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4124"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4125"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4126"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4127"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4128"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4129"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d412f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4130"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4131"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4132"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4133"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4134"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4135"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4136"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4137"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4138"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4139"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d413f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4140"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4141"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4142"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4143"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4144"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4145"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4146"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4147"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4148"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4149"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414d"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414e"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d414f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4150"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4151"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4152"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4153"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4154"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4155"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4156"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4157"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4158"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4159"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d415f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4160"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4161"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4162"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4163"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4164"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4165"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4166"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4167"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4168"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4169"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416b"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d416f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4170"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4171"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4172"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4173"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4174"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4175"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4176"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4177"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4178"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4179"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417d"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d417f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4180"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4181"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4182"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4183"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4184"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4185"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4186"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4187"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4188"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4189"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418b"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418e"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d418f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4190"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4191"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4192"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4193"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4194"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4195"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4196"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4197"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4198"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4199"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d419f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a0"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a3"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a5"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a6"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a8"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41a9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41aa"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ab"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ac"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ad"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ae"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41af"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b3"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b4"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b5"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b6"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41b9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ba"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41bb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41bc"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41bd"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41be"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41bf"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c1"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c2"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c3"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c5"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c6"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41c9"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ca"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41cb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41cc"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41cd"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ce"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41cf"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d1"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d2"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d3"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d4"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d5"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d6"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d8"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41d9"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41da"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41db"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41dc"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41dd"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41de"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41df"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e0"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e1"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e2"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e3"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e4"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e5"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e7"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e8"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41e9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ea"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41eb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ec"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ed"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ee"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ef"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f3"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f4"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f5"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f6"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f7"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f8"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41f9"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41fa"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41fb"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41fc"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41fd"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41fe"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d41ff"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4200"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4201"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4202"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4203"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4204"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4205"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4206"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4207"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4208"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4209"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d420f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4210"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4211"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4212"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4213"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4214"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4215"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4216"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4217"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4218"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4219"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421d"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d421f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4220"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4221"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4222"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4223"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4224"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4225"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4226"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4227"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4228"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4229"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d422f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4230"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4231"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4232"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4233"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4234"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4235"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4236"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4237"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4238"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4239"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d423f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4240"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4241"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4242"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4243"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4244"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4245"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4246"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4247"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4248"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4249"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424e"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d424f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4250"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4251"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4252"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4253"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4254"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4255"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4256"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4257"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4258"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4259"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425d"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d425f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4260"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4261"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4262"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4263"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4264"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4265"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4266"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4267"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4268"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4269"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426a"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426b"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426e"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d426f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4270"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4271"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4272"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4273"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4274"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4275"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4276"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4277"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4278"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4279"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427a"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d427f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4280"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4281"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4282"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4283"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4284"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4285"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4286"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4287"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4288"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4289"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428b"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428c"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428e"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d428f"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4290"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4291"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4292"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4293"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4294"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4295"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4296"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4297"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4298"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4299"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429b"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d429f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a0"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a2"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a3"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a5"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a7"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42a9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42aa"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ab"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ac"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ad"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ae"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42af"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b0"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b2"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b3"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b5"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b7"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42b9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ba"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42bb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42bc"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42bd"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42be"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42bf"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c0"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c2"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c3"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c5"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c7"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42c9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ca"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42cb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42cc"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42cd"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ce"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42cf"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d0"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d1"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d2"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d3"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d4"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d5"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d7"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42d9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42da"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42db"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42dc"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42dd"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42de"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42df"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e0"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e1"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e3"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e4"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e5"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e6"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e7"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42e9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ea"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42eb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ec"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ed"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ee"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ef"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f0"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f1"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f2"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f3"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f4"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f5"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f6"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f7"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f8"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42f9"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42fa"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42fb"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42fc"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42fd"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42fe"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d42ff"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4300"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4301"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4302"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4303"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4304"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4305"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4306"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4307"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4308"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4309"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430d"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d430f"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4310"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4311"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4312"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4313"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4314"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4315"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4316"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4317"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4318"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4319"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431d"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Always",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431e"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d431f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4320"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4321"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Never",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4322"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4323"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4324"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4325"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4326"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4327"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4328"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4329"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432c"
+  },
+  "AddToCartBrowsing": "No",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d432f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4330"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4331"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4332"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4333"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4334"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4335"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4336"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4337"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4338"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Changed my mind or no longer need the item"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4339"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433a"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Rarely",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433b"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433c"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433d"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433e"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d433f"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4340"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Sometimes",
+  "CartAbandonmentFactors": "High shipping costs"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4341"
+  },
+  "AddToCartBrowsing": "Yes",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "others"
+},
+{
+  "_id": {
+    "$oid": "66703c4733d35364ba8d4342"
+  },
+  "AddToCartBrowsing": "Maybe",
+  "CartCompletionFrequency": "Often",
+  "CartAbandonmentFactors": "Found a better price elsewhere"
+}]

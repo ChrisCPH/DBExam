@@ -1,0 +1,4214 @@
+[{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4345"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4346"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4347"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4348"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4349"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434a"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d434f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4350"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4351"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4352"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4353"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4354"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4355"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4356"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4357"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4358"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4359"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d435f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4360"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4361"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4362"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4363"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4364"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4365"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4366"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4367"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4368"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4369"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436a"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436b"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436d"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436e"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d436f"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4370"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4371"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4372"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4373"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4374"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4375"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4376"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4377"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4378"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4379"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437a"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437d"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d437f"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4380"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4381"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4382"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4383"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4384"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4385"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4386"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4387"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4388"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4389"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438b"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438c"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438d"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438e"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d438f"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4390"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4391"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4392"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4393"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4394"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4395"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4396"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4397"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4398"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4399"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439b"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d439f"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a0"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a1"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a2"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a3"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a4"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a6"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a7"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a8"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43a9"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43aa"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ab"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ac"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ad"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ae"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43af"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b0"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b2"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b3"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b4"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b6"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b7"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b8"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43b9"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ba"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43bb"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43bc"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43bd"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43be"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43bf"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c0"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c1"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c2"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c3"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c4"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c5"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c6"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c7"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c8"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43c9"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ca"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43cb"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43cc"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43cd"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ce"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43cf"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d0"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d2"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d3"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d4"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d6"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d7"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d8"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43d9"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43da"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43db"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43dc"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43dd"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43de"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43df"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e0"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e1"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e2"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e3"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e4"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e5"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e6"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e7"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e8"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43e9"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ea"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43eb"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ec"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ed"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ee"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ef"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f0"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f2"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f3"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f4"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f5"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f6"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f7"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f8"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43f9"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43fa"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43fb"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43fc"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43fd"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43fe"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d43ff"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4400"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4401"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4402"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4403"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4404"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4405"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4406"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4407"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4408"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4409"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440e"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d440f"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4410"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4411"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4412"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4413"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4414"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4415"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4416"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4417"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4418"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4419"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441b"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441c"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d441f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4420"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4421"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4422"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4423"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4424"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4425"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4426"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4427"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4428"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4429"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442e"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d442f"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4430"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4431"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4432"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4433"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4434"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4435"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4436"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4437"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4438"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4439"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443b"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d443f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4440"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4441"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4442"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4443"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4444"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4445"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4446"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4447"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4448"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4449"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444a"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444b"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444c"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444e"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d444f"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4450"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4451"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4452"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4453"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4454"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4455"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4456"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4457"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4458"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4459"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445a"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d445f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4460"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4461"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4462"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4463"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4464"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4465"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4466"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4467"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4468"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4469"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446b"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d446f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4470"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4471"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4472"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4473"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4474"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4475"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4476"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4477"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4478"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4479"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447a"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447b"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447e"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d447f"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4480"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4481"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4482"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4483"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4484"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4485"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4486"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4487"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4488"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4489"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448a"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448c"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448d"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d448f"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4490"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4491"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4492"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4493"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4494"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4495"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4496"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4497"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4498"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4499"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449b"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d449f"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a0"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a2"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a3"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a4"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a5"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a6"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a7"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a8"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44a9"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44aa"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ab"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ac"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ad"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ae"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44af"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b0"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b2"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b3"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b4"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b5"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b6"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b7"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b8"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44b9"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ba"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44bb"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44bc"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44bd"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44be"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44bf"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c0"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c2"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c3"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c4"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c6"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c7"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c8"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44c9"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ca"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44cb"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44cc"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44cd"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ce"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44cf"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d0"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d2"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d3"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d4"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d6"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d7"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d8"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44d9"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44da"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44db"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44dc"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44dd"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44de"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44df"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e0"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e2"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e3"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e4"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e5"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e6"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e7"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e8"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44e9"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ea"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44eb"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ec"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ed"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ee"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ef"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f0"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f1"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f2"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f3"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f4"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f5"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f6"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f7"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f8"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44f9"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44fa"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44fb"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44fc"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44fd"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44fe"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d44ff"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4500"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4501"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4502"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4503"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4504"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4505"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4506"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4507"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4508"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4509"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450b"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d450f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4510"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4511"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4512"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4513"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4514"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4515"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4516"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4517"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4518"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4519"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d451f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4520"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4521"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4522"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4523"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4524"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4525"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4526"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4527"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4528"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4529"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452a"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452b"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d452f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4530"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4531"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4532"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4533"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4534"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4535"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4536"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4537"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4538"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4539"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453d"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453e"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d453f"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4540"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4541"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4542"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4543"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4544"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4545"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4546"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4547"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4548"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4549"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d454f"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4550"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4551"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4552"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4553"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4554"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4555"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4556"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4557"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4558"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4559"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455b"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455c"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455d"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455e"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d455f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4560"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4561"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4562"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4563"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4564"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4565"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4566"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4567"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4568"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4569"
+  },
+  "PersonalizedRecommendationFrequency ": 5,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456a"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456c"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456e"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d456f"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4570"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4571"
+  },
+  "PersonalizedRecommendationFrequency ": 1,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4572"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4573"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4574"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4575"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4576"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4577"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4578"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4579"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457d"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d457f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4580"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4581"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4582"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4583"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4584"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4585"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4586"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4587"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4588"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4589"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458a"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458c"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458d"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458e"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d458f"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4590"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4591"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4592"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4593"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4594"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4595"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4596"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4597"
+  },
+  "PersonalizedRecommendationFrequency ": 4,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4598"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d4599"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d459a"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d459b"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d459c"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d459d"
+  },
+  "PersonalizedRecommendationFrequency ": 2,
+  "RecommendationHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c5533d35364ba8d459e"
+  },
+  "PersonalizedRecommendationFrequency ": 3,
+  "RecommendationHelpfulness": "Sometimes"
+}]

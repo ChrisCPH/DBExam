@@ -1,0 +1,4 @@
+sales_id;sales_channel;B2B
+1;Amazon.in;False
+2;Amazon.in;True
+3;Non-Amazon;False

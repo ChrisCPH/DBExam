@@ -1,0 +1,21 @@
+MATCH (reviews:Reviews) RETURN reviews
+
+MATCH (users:Users) RETURN users
+
+MATCH (ratings:Ratings) RETURN ratings
+
+MATCH (products:Products) RETURN products
+
+MATCH (categories:Categories) RETURN categories
+
+MATCH (r:Reviews)-[:CREATED_BY]->(u: Users)
+RETURN r, u
+
+MATCH (r:Reviews)-[:PRODUCT]->(p: Products)
+RETURN r, p
+
+MATCH (ra:Ratings)-[:PRODUCT]->(p: Products)
+RETURN ra, p
+
+MATCH (p: Products)-[:CATEGORY]->(c: Categories)
+RETURN p, c

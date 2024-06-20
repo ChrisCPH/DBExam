@@ -1,0 +1,5418 @@
+[{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a0"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a2"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a3"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a6"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a7"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45a9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45aa"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ab"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ac"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ad"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ae"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45af"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b0"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b3"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b4"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b6"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b7"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45b9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ba"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45bb"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45bc"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45bd"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45be"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45bf"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c3"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c4"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c6"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c7"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45c9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ca"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45cb"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45cc"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45cd"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ce"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45cf"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d0"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d3"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d6"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d7"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45d9"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45da"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45db"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45dc"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45dd"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45de"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45df"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e1"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e3"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e6"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e7"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45e9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ea"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45eb"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ec"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ed"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ee"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ef"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f0"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f2"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f3"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f5"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f6"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45f9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45fa"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45fb"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45fc"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45fd"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45fe"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d45ff"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4600"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4601"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4602"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4603"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4604"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4605"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4606"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4607"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4608"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4609"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460a"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460c"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460e"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d460f"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4610"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4611"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4612"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4613"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4614"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4615"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4616"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4617"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4618"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4619"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461a"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461e"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d461f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4620"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4621"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4622"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4623"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4624"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4625"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4626"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4627"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4628"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4629"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462e"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d462f"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4630"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4631"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4632"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4633"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4634"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4635"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4636"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4637"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4638"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4639"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463a"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463b"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463c"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463d"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463e"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d463f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4640"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4641"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4642"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4643"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4644"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4645"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4646"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4647"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4648"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4649"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464d"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d464f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4650"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4651"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4652"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4653"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4654"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4655"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4656"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4657"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4658"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4659"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465c"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465e"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d465f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4660"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4661"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4662"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4663"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4664"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4665"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4666"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4667"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4668"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4669"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466b"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466c"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466e"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d466f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4670"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4671"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4672"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4673"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4674"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4675"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4676"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4677"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4678"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4679"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467c"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467e"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d467f"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4680"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4681"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4682"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4683"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4684"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4685"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4686"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4687"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4688"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4689"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468c"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468e"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d468f"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4690"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4691"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4692"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4693"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4694"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4695"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4696"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4697"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4698"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4699"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469b"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469c"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469e"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d469f"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a0"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a1"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a2"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a3"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a4"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a5"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a8"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46a9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46aa"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ab"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ac"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ad"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ae"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46af"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b1"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b2"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b3"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b4"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b5"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b7"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b8"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46b9"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ba"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46bb"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46bc"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46bd"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46be"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46bf"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c0"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c2"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c3"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c4"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c5"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c8"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46c9"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ca"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46cb"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46cc"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46cd"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ce"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46cf"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d0"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d3"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d4"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d7"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46d9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46da"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46db"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46dc"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46dd"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46de"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46df"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e0"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e2"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e3"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e5"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46e9"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ea"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46eb"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ec"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ed"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ee"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ef"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f3"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f4"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f5"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f7"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f8"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46f9"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46fa"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46fb"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46fc"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46fd"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46fe"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d46ff"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4700"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4701"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4702"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4703"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4704"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4705"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4706"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4707"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4708"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4709"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470b"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d470f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4710"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4711"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4712"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4713"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4714"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4715"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4716"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4717"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4718"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4719"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471b"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471c"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471e"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d471f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4720"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4721"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4722"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4723"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4724"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4725"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4726"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4727"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4728"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4729"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472b"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472c"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472d"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472e"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d472f"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4730"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4731"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4732"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4733"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4734"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4735"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4736"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4737"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4738"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4739"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473b"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473c"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d473f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4740"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4741"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4742"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4743"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4744"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4745"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4746"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4747"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4748"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4749"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474a"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474b"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d474f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4750"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4751"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4752"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4753"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4754"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4755"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4756"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4757"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4758"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4759"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475b"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475c"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d475f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4760"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4761"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4762"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4763"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4764"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4765"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4766"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4767"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4768"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4769"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476b"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476c"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476d"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d476f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4770"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4771"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4772"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4773"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4774"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4775"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4776"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4777"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4778"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4779"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477b"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d477f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4780"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4781"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4782"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4783"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4784"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4785"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4786"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4787"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4788"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4789"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478a"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478b"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478e"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d478f"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4790"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4791"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4792"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4793"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4794"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4795"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4796"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4797"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4798"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d4799"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479a"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479b"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479c"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479d"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479e"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d479f"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a0"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a1"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a2"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a3"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a4"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a5"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a6"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a8"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47a9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47aa"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ab"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ac"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ad"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ae"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47af"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b1"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b2"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b3"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b4"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b5"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b6"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b8"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47b9"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ba"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47bb"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47bc"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47bd"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47be"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47bf"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c0"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c3"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c4"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c5"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c6"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c7"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c8"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47c9"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ca"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47cb"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Rarely",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47cc"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47cd"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ce"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47cf"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d0"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d2"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d3"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d4"
+  },
+  "CustomerReviewsImportance": 5,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Never",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d5"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "No"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d6"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d8"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47d9"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47da"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47db"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47dc"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47dd"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47de"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47df"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e0"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e1"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e2"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e3"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e4"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e5"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e8"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47e9"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ea"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47eb"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ec"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ed"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ee"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47ef"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f0"
+  },
+  "CustomerReviewsImportance": 2,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f1"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f2"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f3"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f4"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f5"
+  },
+  "CustomerReviewsImportance": 4,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f6"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f7"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Occasionally",
+  "ReviewHelpfulness": "Sometimes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f8"
+  },
+  "CustomerReviewsImportance": 1,
+  "ReviewLeft": "No",
+  "ReviewReliability": "Heavily",
+  "ReviewHelpfulness": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66703c6433d35364ba8d47f9"
+  },
+  "CustomerReviewsImportance": 3,
+  "ReviewLeft": "Yes",
+  "ReviewReliability": "Moderately",
+  "ReviewHelpfulness": "Sometimes"
+}]
